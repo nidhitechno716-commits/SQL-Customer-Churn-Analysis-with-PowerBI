@@ -1,4 +1,4 @@
-#SQL scripts available in `SQL-Scripts/ExtractAndCleanData.sql`  
+#SQL scripts available 
   - Handles null or blank values  
   - Filters only relevant records  
   - Prepares data for Power BI analysis
